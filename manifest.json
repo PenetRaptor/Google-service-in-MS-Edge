@@ -1,0 +1,12 @@
+{
+    "name": "Google service in Edge",
+    "version": "0.2",
+    "manifest_version": 2,
+    "description": "Add Google service in Edge.",
+    "icons":{
+        "128": "icons/google_128x128.png"
+    },
+    "browser_action": {
+        "default_popup": "popup/popup.html"
+    }
+}
